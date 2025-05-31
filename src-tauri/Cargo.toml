@@ -17,6 +17,7 @@ tauri = { version = "1.5", features = [ "macos-private-api", "system-tray", "she
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 tauri-plugin-positioner = { version = "1.0.4", features = ["system-tray"] }
+time = ">=0.3.35"
 
 
 [features]
