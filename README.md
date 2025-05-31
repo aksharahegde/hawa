@@ -7,6 +7,7 @@ Hawa is a simple, lightweight app that lives in your menubar and plays ambient s
 You can choose from a variety of sounds, adjust the volume of each sound individually and create your own mix
 
 Sounds included
+
 1. Rain
 2. Thunder
 3. Wind
@@ -15,13 +16,12 @@ Sounds included
 6. Waves
 7. Forest
 
-
-Demo - (Turn on sound 🔊) 
+Demo - (Turn on sound 🔊)
 
 https://github.com/fayazara/hawa/assets/15716057/e4d676b5-b6e4-445a-89d2-2d8298dcf211
 
-
 ## Stack
+
 1. Tauri
 2. Vue 3
 3. Tailwindcss
@@ -31,6 +31,7 @@ https://github.com/fayazara/hawa/assets/15716057/e4d676b5-b6e4-445a-89d2-2d8298d
 ## Development
 
 ### Pre-requisites
+
 1. Rust
 2. Node
 
@@ -40,8 +41,7 @@ https://github.com/fayazara/hawa/assets/15716057/e4d676b5-b6e4-445a-89d2-2d8298d
 2. `yarn install`
 3. `yarn tauri dev`
 
-
 ## Build
-`yarn tauri build --options` 
-More details here - https://tauri.app/v1/api/cli/#build
 
+`yarn tauri build --options`
+More details here - https://tauri.app/v1/api/cli/#build
